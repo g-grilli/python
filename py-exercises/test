@@ -1,0 +1,2 @@
+import random
+random.range(1,10)
